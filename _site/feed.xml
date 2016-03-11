@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Zhang</title>
+    <description>Undergraduate Student - Mathematics - Wuhan University</description>
+    <link>http://chenzxyz.github.io//</link>
+    <atom:link href="http://chenzxyz.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 11 Mar 2016 21:50:49 +0800</pubDate>
+    <lastBuildDate>Fri, 11 Mar 2016 21:50:49 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Welcome to Chenz.xyz!</title>
+        <description>&lt;p&gt;I am currently an undergraduate student with Hongyi the Mathematics Class, Wuhan University, China. Mathematics, Computer Science and Photography are all of my interest. And I am going to pursue a PhD in Computer Science after my Bachelor in Science(Mathematics).&lt;/p&gt;
+
+&lt;p&gt;My research interests are Computational Inverse Problems, Statistical/Machine Learning and Bayesian Statistics.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://en.whu.edu.cn/&quot;&gt;Wuhan University Website&lt;/a&gt; for more info on the most beautiful university in China - Wuhan University.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 10 Mar 2016 23:04:23 +0800</pubDate>
+        <link>http://chenzxyz.github.io//2016/welcome-to-chenz/</link>
+        <guid isPermaLink="true">http://chenzxyz.github.io//2016/welcome-to-chenz/</guid>
+        
+        <category>personal</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
