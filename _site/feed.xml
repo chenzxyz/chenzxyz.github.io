@@ -2,12 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chen Zhang</title>
-    <description>Undergraduate Student - Mathematics - Wuhan University</description>
-    <link>http://chenzxyz.github.io//</link>
-    <atom:link href="http://chenzxyz.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Mar 2016 21:50:49 +0800</pubDate>
-    <lastBuildDate>Fri, 11 Mar 2016 21:50:49 +0800</lastBuildDate>
+    <description>PhD Student - Computer Science - University College London</description>
+    <link>http://chenz.xyz//</link>
+    <atom:link href="http://chenz.xyz//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 08 Dec 2016 14:48:48 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Dec 2016 14:48:48 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>PhD life begins at UCL </title>
+        <description>&lt;p&gt;My new research life just began in Bloomsbury, London from late September.&lt;/p&gt;
+
+&lt;p&gt;Visit UCL CS website to find more about our department &lt;a href=&quot;http://www.cs.ucl.ac.uk/&quot;&gt;UCL-CS&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Oct 2016 16:04:23 +0100</pubDate>
+        <link>http://chenz.xyz//2016/ucl-computer-science/</link>
+        <guid isPermaLink="true">http://chenz.xyz//2016/ucl-computer-science/</guid>
+        
+        <category>personal</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Chenz.xyz!</title>
@@ -18,9 +36,9 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://en.whu.edu.cn/&quot;&gt;Wuhan University Website&lt;/a&gt; for more info on the most beautiful university in China - Wuhan University.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 10 Mar 2016 23:04:23 +0800</pubDate>
-        <link>http://chenzxyz.github.io//2016/welcome-to-chenz/</link>
-        <guid isPermaLink="true">http://chenzxyz.github.io//2016/welcome-to-chenz/</guid>
+        <pubDate>Thu, 10 Mar 2016 15:04:23 +0000</pubDate>
+        <link>http://chenz.xyz//2016/welcome-to-chenz/</link>
+        <guid isPermaLink="true">http://chenz.xyz//2016/welcome-to-chenz/</guid>
         
         <category>personal</category>
         
