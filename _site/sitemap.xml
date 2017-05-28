@@ -1,112 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-    
-    <url>
-      <loc>http://chenz.xyz/2016/ucl-computer-science/</loc>
-      
-        <lastmod>2016-10-01T16:04:23+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://chenz.xyz/2016/welcome-to-chenz/</loc>
-      
-        <lastmod>2016-03-10T15:04:23+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-  
-    
-    <url>
-      <loc>http://chenz.xyz/categories/</loc>
-      
-        <lastmod>2016-12-11T23:00:15+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://chenz.xyz/feed.xml</loc>
-      
-        <lastmod>2016-12-11T23:00:15+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://chenz.xyz/</loc>
-      
-        <lastmod>2016-12-11T23:00:15+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://chenz.xyz/js/main.js</loc>
-      
-        <lastmod>2016-12-11T23:00:15+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-  
-    
-    <url>
-      <loc>http://chenz.xyz/tags/</loc>
-      
-        <lastmod>2016-12-11T23:00:15+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://chenz.xyz/untitled%20folder/2012-05-22-readability-post/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/untitled%20folder/2012-05-23-readability-feature-post/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/untitled%20folder/2013-05-22-sample-post-images/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/untitled%20folder/2013-06-25-video-post/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/untitled%20folder/2013-08-16-code-highlighting-post/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/untitled%20folder/2015-08-10-mathjax-example/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/untitled%20folder/2016-03-20-markdown-syntax/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/untitled%20folder/2016-03-21-moon-theme/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/404</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/tags/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/projects/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/posts/</loc>
+</url>
+<url>
+<loc>http://chenz.xyz/about/</loc>
+</url>
 </urlset>
