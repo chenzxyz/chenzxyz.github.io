@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poisson models on chenz.xyz</title>
+    <link>http://chenz.xyz/tags/poisson-models/</link>
+    <description>Recent content in Poisson models on chenz.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 16 Mar 2019 21:58:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://chenz.xyz/tags/poisson-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expectation Propagation for Poisson Data</title>
+      <link>http://chenz.xyz/publication/ep/</link>
+      <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
+      
+      <guid>http://chenz.xyz/publication/ep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Gaussian approximation for Poisson data</title>
+      <link>http://chenz.xyz/publication/vga/</link>
+      <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
+      
+      <guid>http://chenz.xyz/publication/vga/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

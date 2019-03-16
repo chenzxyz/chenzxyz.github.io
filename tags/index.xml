@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on chenz.xyz</title>
+    <link>http://chenz.xyz/tags/</link>
+    <description>Recent content in Tags on chenz.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://chenz.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>http://chenz.xyz/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://chenz.xyz/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://chenz.xyz/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://chenz.xyz/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>http://chenz.xyz/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://chenz.xyz/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emission Tomography</title>
+      <link>http://chenz.xyz/tags/emission-tomography/</link>
+      <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
+      
+      <guid>http://chenz.xyz/tags/emission-tomography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expectation Propagation</title>
+      <link>http://chenz.xyz/tags/expectation-propagation/</link>
+      <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
+      
+      <guid>http://chenz.xyz/tags/expectation-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poisson models</title>
+      <link>http://chenz.xyz/tags/poisson-models/</link>
+      <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
+      
+      <guid>http://chenz.xyz/tags/poisson-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmission Tomography</title>
+      <link>http://chenz.xyz/tags/transmission-tomography/</link>
+      <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
+      
+      <guid>http://chenz.xyz/tags/transmission-tomography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Inference</title>
+      <link>http://chenz.xyz/tags/variational-inference/</link>
+      <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
+      
+      <guid>http://chenz.xyz/tags/variational-inference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
