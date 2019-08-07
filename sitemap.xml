@@ -1,334 +1,183 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/talk/19-grenoble/</loc>
-      <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/talk/19-grenoble/</loc>
+    <lastmod>2019-07-09T16:30:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/publication/ep/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/talk/</loc>
+    <lastmod>2019-07-09T16:30:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/publication/vga/</loc>
-      <lastmod>2019-03-16T21:39:45+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/</loc>
+    <lastmod>2019-07-09T16:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/post/jupyter/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/talk/19-glasgow/</loc>
+    <lastmod>2019-06-25T15:05:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/talk/18-helsinki/</loc>
-      <lastmod>2018-12-11T16:30:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/authors/chen-zhang/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/publication_types/0/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/authors/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/talk/18-edinburgh/</loc>
-      <lastmod>2018-07-03T14:45:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/authors/bangti-jin/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/conditional-vae/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/image-restoration/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/publication/prl/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/author/admin/</loc>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/publication_types/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/authors/with-hardy-littlewood-rule/</loc>
-      <lastmod>2019-03-16T21:39:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/publication/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/authors/chen-zhang/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/residual-learning/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/publication_types/2/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/uncertainty-quantification/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/author/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/publication_types/2/</loc>
+    <lastmod>2019-03-16T21:58:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/authors/</loc>
-      <lastmod>2019-03-16T21:39:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/emission-tomography/</loc>
+    <lastmod>2019-03-16T21:58:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/authors/bangti-jin/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/expectation-propagation/</loc>
+    <lastmod>2019-03-16T21:58:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/publication/ep/</loc>
+    <lastmod>2019-03-16T21:58:35+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/poisson-models/</loc>
+    <lastmod>2019-03-16T21:58:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/authors/simon-arridge/</loc>
+    <lastmod>2019-03-16T21:58:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tags/emission-tomography/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/authors/with-hardy-littlewood-rule/</loc>
+    <lastmod>2019-03-16T21:39:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tags/expectation-propagation/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/authors/kazufumi-ito/</loc>
+    <lastmod>2019-03-16T21:39:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/authors/kazufumi-ito/</loc>
-      <lastmod>2019-03-16T21:39:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/transmission-tomography/</loc>
+    <lastmod>2019-03-16T21:39:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tags/poisson-models/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/publication/vga/</loc>
+    <lastmod>2019-03-16T21:39:45+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/post/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/tags/variational-inference/</loc>
+    <lastmod>2019-03-16T21:39:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/talk/18-helsinki/</loc>
+    <lastmod>2018-12-11T16:30:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/publication_types/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/talk/18-edinburgh/</loc>
+    <lastmod>2018-07-03T14:45:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/publication/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/authors/admin/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/talk/</loc>
-      <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://chenz.xyz/authors/simon-arridge/</loc>
-      <lastmod>2019-03-16T21:58:35+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://chenz.xyz/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://chenz.xyz/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tags/transmission-tomography/</loc>
-      <lastmod>2019-03-16T21:39:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://chenz.xyz/tags/variational-inference/</loc>
-      <lastmod>2019-03-16T21:39:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://chenz.xyz/authors/admin/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://chenz.xyz/</loc>
-      <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://chenz.xyz/post/</loc>
+  </url>
   
 </urlset>

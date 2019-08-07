@@ -1,41 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on chenz.xyz</title>
+    <title>Tags | chenz.xyz</title>
     <link>http://chenz.xyz/tags/</link>
-    <description>Recent content in Tags on chenz.xyz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="http://chenz.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://chenz.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2019</copyright><lastBuildDate>Thu, 23 May 2019 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://chenz.xyz/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>http://chenz.xyz/tags/</link>
+    </image>
     
     <item>
-      <title>Academic</title>
-      <link>http://chenz.xyz/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>http://chenz.xyz/tags/academic/</guid>
+      <title>Conditional VAE</title>
+      <link>http://chenz.xyz/tags/conditional-vae/</link>
+      <pubDate>Thu, 23 May 2019 15:00:00 +0000</pubDate>
+      <guid>http://chenz.xyz/tags/conditional-vae/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>http://chenz.xyz/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>http://chenz.xyz/tags/deep-learning/</guid>
+      <title>Image Restoration</title>
+      <link>http://chenz.xyz/tags/image-restoration/</link>
+      <pubDate>Thu, 23 May 2019 15:00:00 +0000</pubDate>
+      <guid>http://chenz.xyz/tags/image-restoration/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>http://chenz.xyz/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>http://chenz.xyz/tags/demo/</guid>
+      <title>Residual Learning</title>
+      <link>http://chenz.xyz/tags/residual-learning/</link>
+      <pubDate>Thu, 23 May 2019 15:00:00 +0000</pubDate>
+      <guid>http://chenz.xyz/tags/residual-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Quantification</title>
+      <link>http://chenz.xyz/tags/uncertainty-quantification/</link>
+      <pubDate>Thu, 23 May 2019 15:00:00 +0000</pubDate>
+      <guid>http://chenz.xyz/tags/uncertainty-quantification/</guid>
       <description></description>
     </item>
     
@@ -43,7 +48,6 @@
       <title>Emission Tomography</title>
       <link>http://chenz.xyz/tags/emission-tomography/</link>
       <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
-      
       <guid>http://chenz.xyz/tags/emission-tomography/</guid>
       <description></description>
     </item>
@@ -52,7 +56,6 @@
       <title>Expectation Propagation</title>
       <link>http://chenz.xyz/tags/expectation-propagation/</link>
       <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
-      
       <guid>http://chenz.xyz/tags/expectation-propagation/</guid>
       <description></description>
     </item>
@@ -61,7 +64,6 @@
       <title>Poisson models</title>
       <link>http://chenz.xyz/tags/poisson-models/</link>
       <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
-      
       <guid>http://chenz.xyz/tags/poisson-models/</guid>
       <description></description>
     </item>
@@ -70,7 +72,6 @@
       <title>Transmission Tomography</title>
       <link>http://chenz.xyz/tags/transmission-tomography/</link>
       <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
-      
       <guid>http://chenz.xyz/tags/transmission-tomography/</guid>
       <description></description>
     </item>
@@ -79,7 +80,6 @@
       <title>Variational Inference</title>
       <link>http://chenz.xyz/tags/variational-inference/</link>
       <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
-      
       <guid>http://chenz.xyz/tags/variational-inference/</guid>
       <description></description>
     </item>

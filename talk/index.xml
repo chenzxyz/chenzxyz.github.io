@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on chenz.xyz</title>
+    <title>Recent &amp; Upcoming Talks | chenz.xyz</title>
     <link>http://chenz.xyz/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on chenz.xyz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://chenz.xyz/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://chenz.xyz/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2019</copyright><lastBuildDate>Tue, 09 Jul 2019 16:30:00 +0000</lastBuildDate>
+    <image>
+      <url>http://chenz.xyz/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://chenz.xyz/talk/</link>
+    </image>
     
     <item>
-      <title>25-min invited talk, Institut Fourier</title>
+      <title>25-min invited talk, Université Grenoble Alpes</title>
       <link>http://chenz.xyz/talk/19-grenoble/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 09 Jul 2019 16:30:00 +0000</pubDate>
       <guid>http://chenz.xyz/talk/19-grenoble/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>30-min contributed talk, Finnish Inverse Problems Society</title>
+      <title>25-min invited talk, University of Strathclyde</title>
+      <link>http://chenz.xyz/talk/19-glasgow/</link>
+      <pubDate>Tue, 25 Jun 2019 15:05:00 +0000</pubDate>
+      <guid>http://chenz.xyz/talk/19-glasgow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>30-min contributed talk, Aalto University</title>
       <link>http://chenz.xyz/talk/18-helsinki/</link>
       <pubDate>Tue, 11 Dec 2018 16:30:00 +0000</pubDate>
-      
       <guid>http://chenz.xyz/talk/18-helsinki/</guid>
       <description></description>
     </item>
@@ -34,7 +40,6 @@
       <title>45-min invited talk, International Centre for Mathematical Science</title>
       <link>http://chenz.xyz/talk/18-edinburgh/</link>
       <pubDate>Tue, 03 Jul 2018 14:45:00 +0000</pubDate>
-      
       <guid>http://chenz.xyz/talk/18-edinburgh/</guid>
       <description></description>
     </item>

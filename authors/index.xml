@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on chenz.xyz</title>
+    <title>Authors | chenz.xyz</title>
     <link>http://chenz.xyz/authors/</link>
-    <description>Recent content in Authors on chenz.xyz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 16 Mar 2019 21:39:45 +0000</lastBuildDate>
-    
-	<atom:link href="http://chenz.xyz/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>(with Hardy-Littlewood rule)</title>
-      <link>http://chenz.xyz/authors/with-hardy-littlewood-rule/</link>
-      <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
-      
-      <guid>http://chenz.xyz/authors/with-hardy-littlewood-rule/</guid>
-      <description></description>
-    </item>
+      <atom:link href="http://chenz.xyz/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2019</copyright><lastBuildDate>Thu, 23 May 2019 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://chenz.xyz/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>http://chenz.xyz/authors/</link>
+    </image>
     
     <item>
       <title>**Chen Zhang**</title>
       <link>http://chenz.xyz/authors/chen-zhang/</link>
-      <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
-      
+      <pubDate>Thu, 23 May 2019 15:00:00 +0000</pubDate>
       <guid>http://chenz.xyz/authors/chen-zhang/</guid>
       <description></description>
     </item>
@@ -33,18 +23,8 @@
     <item>
       <title>Bangti Jin</title>
       <link>http://chenz.xyz/authors/bangti-jin/</link>
-      <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
-      
+      <pubDate>Thu, 23 May 2019 15:00:00 +0000</pubDate>
       <guid>http://chenz.xyz/authors/bangti-jin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kazufumi Ito</title>
-      <link>http://chenz.xyz/authors/kazufumi-ito/</link>
-      <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
-      
-      <guid>http://chenz.xyz/authors/kazufumi-ito/</guid>
       <description></description>
     </item>
     
@@ -52,18 +32,35 @@
       <title>Simon Arridge</title>
       <link>http://chenz.xyz/authors/simon-arridge/</link>
       <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
-      
       <guid>http://chenz.xyz/authors/simon-arridge/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>admin</title>
-      <link>http://chenz.xyz/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://chenz.xyz/authors/admin/</guid>
+      <title>(with Hardy-Littlewood rule)</title>
+      <link>http://chenz.xyz/authors/with-hardy-littlewood-rule/</link>
+      <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
+      <guid>http://chenz.xyz/authors/with-hardy-littlewood-rule/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Kazufumi Ito</title>
+      <link>http://chenz.xyz/authors/kazufumi-ito/</link>
+      <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
+      <guid>http://chenz.xyz/authors/kazufumi-ito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://chenz.xyz/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://chenz.xyz/authors/admin/</guid>
+      <description>&lt;p&gt;Chen is a PhD student in &lt;a href=&#34;http://www.ucl.ac.uk&#34; target=&#34;_blank&#34;&gt;UCL&lt;/a&gt; &lt;a href=&#34;http://www.cs.ucl.ac.uk/home/&#34; target=&#34;_blank&#34;&gt;Department of Computer Science&lt;/a&gt;. His research interests cover &lt;a href=&#34;http://cip.cs.ucl.ac.uk/&#34; target=&#34;_blank&#34;&gt;Inverse Problems&lt;/a&gt;, an area in Mathematics solving for hidden variables given observations &amp;amp; forward models explaining the observations with hidden variables, &lt;a href=&#34;https://en.wikipedia.org/wiki/Bayesian_inference&#34; target=&#34;_blank&#34;&gt;Bayesian Inference&lt;/a&gt;, an area in Statistics modelling data with likelihood functions &amp;amp; prior information as well as exploring the posterior distributions by sophisticated approximations, and &lt;a href=&#34;https://en.wikipedia.org/wiki/Machine_learning&#34; target=&#34;_blank&#34;&gt;Machine Learning&lt;/a&gt; which connects solid mathematical and statistical analysis to exciting real world problems. His research is fully funded by UCL Computer Science Departmental Studentship at overseas standard.&lt;/p&gt;
+
+&lt;p&gt;Besides being a junior researcher, Chen is also a street photographer. He is invited to be one of the first six UCL photographers for &lt;a href=&#34;https://www.ucl.ac.uk/news/student-news/get-involved/instagrammer-residence/chen-zhang&#34; target=&#34;_blank&#34;&gt;UCL Instagrammer in Residence&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
