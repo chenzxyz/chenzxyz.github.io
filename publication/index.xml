@@ -5,36 +5,12 @@
     <link>http://chenz.xyz/publication/</link>
       <atom:link href="http://chenz.xyz/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2019</copyright><lastBuildDate>Thu, 23 May 2019 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2020</copyright>
     <image>
-      <url>http://chenz.xyz/img/icon-192.png</url>
+      <url>http://chenz.xyz/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>http://chenz.xyz/publication/</link>
     </image>
-    
-    <item>
-      <title>Probabilistic Residual Learning for Aleatoric Uncertainty in Image Restoration</title>
-      <link>http://chenz.xyz/publication/prl/</link>
-      <pubDate>Thu, 23 May 2019 15:00:00 +0000</pubDate>
-      <guid>http://chenz.xyz/publication/prl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expectation Propagation for Poisson Data</title>
-      <link>http://chenz.xyz/publication/ep/</link>
-      <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
-      <guid>http://chenz.xyz/publication/ep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variational Gaussian approximation for Poisson data</title>
-      <link>http://chenz.xyz/publication/vga/</link>
-      <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
-      <guid>http://chenz.xyz/publication/vga/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,28 @@
     <link>http://chenz.xyz/</link>
       <atom:link href="http://chenz.xyz/index.xml" rel="self" type="application/rss+xml" />
     <description>chenz.xyz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2019</copyright><lastBuildDate>Tue, 09 Jul 2019 16:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2020</copyright><lastBuildDate>Mon, 02 Mar 2020 10:30:00 +0000</lastBuildDate>
     <image>
-      <url>http://chenz.xyz/img/icon-192.png</url>
+      <url>http://chenz.xyz/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>chenz.xyz</title>
       <link>http://chenz.xyz/</link>
     </image>
+    
+    <item>
+      <title>30-min invited talk, Institute of Nuclear Medicine, UCL Hospital</title>
+      <link>http://chenz.xyz/talk/20-uclh/</link>
+      <pubDate>Mon, 02 Mar 2020 10:30:00 +0000</pubDate>
+      <guid>http://chenz.xyz/talk/20-uclh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>60-min invited talk, Technical University of Denmark</title>
+      <link>http://chenz.xyz/talk/19-copenhagen/</link>
+      <pubDate>Thu, 21 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>http://chenz.xyz/talk/19-copenhagen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>25-min invited talk, Université Grenoble Alpes</title>
@@ -25,30 +41,6 @@
       <link>http://chenz.xyz/talk/19-glasgow/</link>
       <pubDate>Tue, 25 Jun 2019 15:05:00 +0000</pubDate>
       <guid>http://chenz.xyz/talk/19-glasgow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Residual Learning for Aleatoric Uncertainty in Image Restoration</title>
-      <link>http://chenz.xyz/publication/prl/</link>
-      <pubDate>Thu, 23 May 2019 15:00:00 +0000</pubDate>
-      <guid>http://chenz.xyz/publication/prl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expectation Propagation for Poisson Data</title>
-      <link>http://chenz.xyz/publication/ep/</link>
-      <pubDate>Sat, 16 Mar 2019 21:58:35 +0000</pubDate>
-      <guid>http://chenz.xyz/publication/ep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variational Gaussian approximation for Poisson data</title>
-      <link>http://chenz.xyz/publication/vga/</link>
-      <pubDate>Sat, 16 Mar 2019 21:39:45 +0000</pubDate>
-      <guid>http://chenz.xyz/publication/vga/</guid>
       <description></description>
     </item>
     

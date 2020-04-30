@@ -5,12 +5,28 @@
     <link>http://chenz.xyz/talk/</link>
       <atom:link href="http://chenz.xyz/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2019</copyright><lastBuildDate>Tue, 09 Jul 2019 16:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2020</copyright><lastBuildDate>Mon, 02 Mar 2020 10:30:00 +0000</lastBuildDate>
     <image>
-      <url>http://chenz.xyz/img/icon-192.png</url>
+      <url>http://chenz.xyz/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>http://chenz.xyz/talk/</link>
     </image>
+    
+    <item>
+      <title>30-min invited talk, Institute of Nuclear Medicine, UCL Hospital</title>
+      <link>http://chenz.xyz/talk/20-uclh/</link>
+      <pubDate>Mon, 02 Mar 2020 10:30:00 +0000</pubDate>
+      <guid>http://chenz.xyz/talk/20-uclh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>60-min invited talk, Technical University of Denmark</title>
+      <link>http://chenz.xyz/talk/19-copenhagen/</link>
+      <pubDate>Thu, 21 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>http://chenz.xyz/talk/19-copenhagen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>25-min invited talk, Université Grenoble Alpes</title>

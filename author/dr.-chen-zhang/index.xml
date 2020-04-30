@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Chen Zhang | chenz.xyz</title>
+    <link>http://chenz.xyz/author/dr.-chen-zhang/</link>
+      <atom:link href="http://chenz.xyz/author/dr.-chen-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Chen Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chen Zhang 2020</copyright>
+    <image>
+      <url>http://chenz.xyz/author/dr.-chen-zhang/avatar_hu190a03fdc0e4fc35817bb2336f1a07b4_626677_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Dr. Chen Zhang</title>
+      <link>http://chenz.xyz/author/dr.-chen-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>
